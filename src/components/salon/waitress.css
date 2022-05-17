@@ -1,0 +1,23 @@
+
+@media (min-width:768px) and (max-width:1024px) and (orientation:portrait) {
+
+    .containerWaitress{
+        background-color: #ffffff;
+        margin: 0px;
+        display: grid;
+        gap: 1.6em;
+        grid-template-columns: repeat(4, 2fr);
+        
+    }
+
+}
+@media (min-width:1024px) {
+    .containerWaitress{
+        background-color: #ffffff;
+        margin: 0px;
+        display: grid;
+        gap: 1.6em;
+        grid-template-columns: repeat(4, 2fr);
+        
+    }
+}

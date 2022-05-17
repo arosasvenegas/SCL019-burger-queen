@@ -1,0 +1,148 @@
+@media (min-width:768px) and (max-width:1024px) and (orientation:portrait) {
+    .loginContainer{
+        background-image: url("../../images/fondonuevoBQ.png");
+        height: 1200px;
+        width: 850px;
+        background-attachment: fixed;
+        background-position: top;
+        background-repeat: no-repeat;
+        background-size: cover;
+       
+    }
+    .logoLogin{
+        margin: 15px;
+    }
+    .loginForm{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .loginBody{
+        background: rgba(0, 0, 0, 0.4);
+        position: fixed;
+        width:550px;
+        top: 25%;
+        left: 15%;
+        padding: 10px;
+        border-radius: 20px;
+        
+    }
+    .loginLabel{
+        font-family: 'Inter', sans-serif ;
+        font-size: 30px;
+        font-weight: 900;
+        margin: 15px;
+        color: #ffb800;
+       
+    }
+    .loginInput{
+        width: 335px;
+        height: 70px;
+        border-radius: 15px;
+        border: none;
+        font-family: 'Inter', sans-serif ;
+        background: #F3F3F3;
+        font-size: 30px;
+        margin: 15px;
+        
+        
+    }
+    .btnLogin{
+        width: 335px;
+        height: 78px;
+        background: #ffb800;
+        color: #F3F3F3;
+        border-radius: 15px;
+        border: none;
+        margin: 25px;
+        font-size: 30px;
+        font-weight: 900;
+        font-family: 'Inter', sans-serif;
+    }
+    .btnLogin:hover{
+        background-color: #6B45BC;
+        color: #F3F3F3 ;
+    }
+    .errorLogin{
+        font-family: 'Inter', sans-serif;
+        font-size: 30px;
+        font-weight: 900;
+        color: #ffb800;
+    }
+}
+@media (min-width:1024px) {
+    .loginContainer{
+        background-color: #9948A5;
+        height: 657px;
+        width: 1366px;
+        background-attachment: fixed;
+        background-position: top;
+        background-repeat: no-repeat;
+        background-size: cover;
+       
+    }
+    .logoLogin{
+        margin-left: 40px;
+        margin-top: 10px;
+        height: 140px;
+        width: 330px;
+    }
+    .loginForm{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .loginBody{
+        background: rgba(0, 0, 0, 0.4);
+        position: fixed;
+        width:425px;
+        top: 5%;
+        left: 32%;
+        padding: 10px;
+        border-radius: 20px;
+        
+    }
+    .loginLabel{
+        font-family: 'Inter', sans-serif ;
+        font-size: 22px;
+        font-weight: 900;
+        margin: 8px;
+        color: #ffb800;
+       
+    }
+    .loginInput{
+        width: 330px;
+        height: 50px;
+        border-radius: 15px;
+        border: none;
+        font-family: 'Inter', sans-serif ;
+        background: #F3F3F3;
+        font-size: 22px;
+        margin: 12px;
+        
+    }
+    .btnLogin{
+        width: 330px;
+        height: 70px;
+        background: #ffb800;
+        color: #F3F3F3;
+        border-radius: 15px;
+        border: none;
+        margin: 25px;
+        font-size: 22px;
+        font-weight: 900;
+        font-family: 'Inter', sans-serif;
+    }
+    .btnLogin:hover{
+        background-color: #6B45BC;
+        color: #F3F3F3 ;
+        cursor: pointer;
+    }
+    .errorLogin{
+        font-family: 'Inter', sans-serif;
+        font-size: 22px;
+        font-weight: 900;
+        color: #ffb800;
+    }
+    
+}

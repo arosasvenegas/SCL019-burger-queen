@@ -1,0 +1,147 @@
+@media (min-width:768px) and (max-width:1024px) and (orientation:portrait) {
+
+.containerOrder{
+    background-color: #F3F3F3;
+    border-radius: 15px;
+    padding: 10px;
+    grid-column: span 2;
+    align-items: center;
+    margin-right: 10px;
+    height: 900px;
+    font-family: 'Inter', sans-serif ;
+    display: grid;
+    grid-template-rows: repeat(8, 1fr);
+    
+}
+.containerInputs{
+    background-color: #FFB800;
+    border-radius: 15px;
+    grid-row: 1 / 2;
+}
+.inputComanda{
+    border-radius: 15px;
+    border: none;
+    background: #ffffff;
+    width: 250px;
+    height: 35px;
+    margin: 20px;
+    margin-left: 25px;
+    font-family: 'Inter', sans-serif;
+}
+.clientOrder{
+    margin: 0px;
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    align-items: center;
+    text-align: center;
+}
+.nameItem{
+    grid-column: 4/7;
+}
+.btnClientOrder{
+    border: none;
+}
+.iconOrder{
+    color: #6B45BC;
+    font-size: 25px;
+}
+   
+.totalBill{
+    background-color: #D9D9D9;
+    width: 330px;
+    border-radius: 15px;
+    grid-row: 7 / 8;
+    
+}
+.sendOrder{
+    border-radius: 15px;
+    border: none;
+    font-family: 'Inter', sans-serif;
+    height: 50px;
+    width: 330px;
+    background-color: #FFB800;
+    color: #ffffff;
+    font-size: 30px;
+    grid-row: 8 / 9;
+        
+}    
+.sendOrder:hover{
+    background-color: #6B45BC;
+    color: #ffffff;
+}
+}
+@media (min-width:1024px){
+    .containerOrder{
+        background-color: #F3F3F3;
+        border-radius: 15px;
+        padding: 10px;
+        grid-column: span 2;
+        align-items: center;
+        margin-right: 10px;
+        height: 900px;
+        font-family: 'Inter', sans-serif ;
+        display: grid;
+        grid-template-rows: repeat(8, 1fr);
+    }
+    .containerInputs{
+        background-color: #FFB800;
+        border-radius: 15px;
+        grid-row: 1 / 2;
+    }
+    .inputComanda{
+        border-radius: 15px;
+        border: none;
+        background: #ffffff;
+        width: 250px;
+        height: 35px;
+        margin: 20px;
+        margin-left: 25px;
+        font-family: 'Inter', sans-serif;
+    }
+    .clientOrder{
+        margin: 0px;
+        display: grid;
+        grid-template-columns: repeat(8, 1fr);
+        align-items: center;
+        text-align: center;
+    }
+    .nameItem{
+        grid-column: 4/7;
+    }
+    
+    
+    .btnClientOrder{
+        border: none;
+        margin-left: 5px;
+    }
+    .iconOrder{
+        color: #6B45BC;
+        font-size: 25px;
+    }
+       
+    .totalBill{
+        background-color: #D9D9D9;
+        width: 610px;
+        border-radius: 15px;
+        grid-row: 7 / 8;
+        padding-left: 15px;
+        
+    }
+    .sendOrder{
+        border-radius: 15px;
+        border: none;
+        font-family: 'Inter', sans-serif;
+        height: 50px;
+        width: 610px;
+        background-color: #FFB800;
+        color: #ffffff;
+        font-size: 30px;
+        grid-row: 8 / 9;
+            
+    }   
+    .sendOrder:hover{
+        background-color: #6B45BC;
+        color: #ffffff;
+        cursor: pointer;
+    }
+}
