@@ -1,0 +1,91 @@
+@media (min-width:768px) and (max-width:1024px) and (orientation:portrait){
+    .divBotones{
+        grid-column: span 5;
+        margin: 15px;
+    }
+    .btnMenu{
+        width: 125px;
+        height: 64px;
+        border-radius: 20px;
+        background-color: #D9D9D9;
+        border: none;
+        margin-left: 25px;
+        font-family: 'Inter', sans-serif;
+        font-size: 20px;  
+        text-align: center;
+    }
+    .btnMenu:hover{
+        background-color:#6B45BC ;
+        color: #ffffff;
+    }
+    .btnOut{
+        width: 65px;
+        height: 64px;
+        background-color: #6B45BC;
+        border: none;
+        border-radius: 50px;
+        margin-left: 11%;
+    }
+    .iconOut{
+        font-size: 25px;
+        color: #ffb800;
+    }
+    .imgNavbar{
+        height: 64px;
+        width: 125px;
+        margin-top: 10px;
+        
+    }
+    .despliegueMenu{
+        grid-column: span 2;
+        border-radius: 15px;
+        padding: 5px;
+    }
+
+
+}
+@media (min-width:1024px){
+    .divBotones{
+        grid-column: span 5;
+        margin: 15px;
+    }
+    .btnMenu{
+        width: 150px;
+        height: 64px;
+        border-radius: 20px;
+        background-color: #D9D9D9;
+        border: none;
+        margin-left: 10%;
+        font-family: 'Inter', sans-serif;
+        font-size: 20px;  
+        text-align: center;
+    }
+    .btnMenu:hover{
+        background-color:#6B45BC ;
+        color: #ffffff;
+        cursor: pointer;
+    }
+    .btnOut{
+        width: 65px;
+        height: 64px;
+        background-color: #6B45BC;
+        border: none;
+        border-radius: 50px;
+        margin-left: 15%;
+    }
+    .iconOut{
+        font-size: 25px;
+        color: #ffb800;
+    }
+    .imgNavbar{
+        height: 64px;
+        width: 125px;
+        margin-top: 10px;
+        
+    }
+    .despliegueMenu{
+        grid-column: span 2;
+        border-radius: 15px;
+        padding: 5px;
+    }
+}

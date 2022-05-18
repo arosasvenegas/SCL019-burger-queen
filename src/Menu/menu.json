@@ -1,0 +1,156 @@
+{
+    "products":[
+        {
+            "id": 1,
+            "name": "Café americano",
+            "price": 1200,
+            "category": "bebidas",
+            "time": "mañana",
+            "image": "https://www.internacionalcafeteria.com/wp-content/uploads/2017/05/10-kawa.png"
+        },
+        {
+            "id": 2,
+            "name": "Café latte",
+            "price": 1500,
+            "category": "bebidas",
+            "time": "mañana",
+            "image": "https://www.internacionalcafeteria.com/wp-content/uploads/2017/05/capuccino.png"   
+        },
+        {
+            "id": 3,
+            "name": "Jugo natural",
+            "price": 2000,
+            "category": "bebidas",
+            "time": "mañana",
+            "image": "https://www.internacionalcafeteria.com/wp-content/uploads/2017/05/zumos_frutas.png"
+        },
+        {
+            "id": 4,
+            "name": "Sandwich Aliado",
+            "price": 1800,
+            "category": "desayuno",
+            "time": "mañana",
+            "image": "https://s.cornershopapp.com/product-images/3630771.png?versionId=byW5PrpEqepDcTmAMTLuguH2PpIDhEwo"
+        }, 
+        {
+            "id": 5,
+            "name": "Medias Lunas",
+            "price": 1200,
+            "category": "desayuno",
+            "time": "mañana",
+            "image": "https://s.cornershopapp.com/product-images/3518287.jpg?versionId=X0QPKHqnVjfKNC.TonUOmP22ixRUS8zW"
+        }, 
+        {
+            "id": 6.1,
+            "name": "Vacuno Simple",
+            "price": 3500,
+            "category": "Hamburguesa Simple",
+            "time": "tarde",
+            "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kPX2JRVv/200/200/original?country=cl"
+        },
+        {
+            "id": 6.2,
+            "name": "Pollo Simple",
+            "price": 3500,
+            "category": "Hamburguesa Simple",
+            "time": "tarde",
+            "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$k8XHEhkJ/200/200/original?country=cl"
+        },
+        {
+            "id": 6.3,
+            "name": "Veggie Simple",
+            "price": 3500,
+            "category": "Hamburguesa Simple",
+            "time": "tarde",
+            "image": "https://s03.s3c.es/imag/_v0/770x420/8/6/1/490x_mcvegan.jpg"
+        },
+        {
+            "id": 7.1,
+            "name": "Vacuno Doble",
+            "price": 4500,
+            "category": "Hamburguesa Doble",
+            "time": "tarde",
+            "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kPXezge2/200/200/original?country=cl"
+        },
+        {
+            "id": 7.2,
+            "name": "Pollo Doble",
+            "price": 4500,
+            "category": "Hamburguesa Doble",
+            "time": "tarde",
+            "image": "https://carta.menu/storage/media/dishes_main/1847311/conversions/dish_thumbnail.jpg" 
+        },
+        {
+            "id": 7.3,
+            "name": "Veggie Doble",
+            "price": 4500,
+            "category": "Hamburguesa Doble",
+            "time": "tarde",
+            "image": "https://www.hungryjacks.com.au/Upload/HJ/Media/Menu/Product/Main/HJ00278_Vegan_Whopper_Cheese_ALC_APP_720x540px.png"
+        },
+        {
+            "id": 8,
+            "name": "Queso",
+            "price": 1000,
+            "category": "extras",
+            "time": "tarde",
+            "image": "https://www.internacionalcafeteria.com/wp-content/uploads/2017/05/canadian-parmesan-our-top-four-quick-tips-150x150.jpg"
+        },
+        {
+            "id": 9,
+            "name": "Huevo",
+            "price": 1000,
+            "category": "extras",
+            "time": "tarde",
+            "image": "https://media.istockphoto.com/photos/fried-egg-isolated-picture-id972182702?k=20&m=972182702&s=612x612&w=0&h=NcmRLz2GREaw6fNzX4QsHcHA4Ti04rKDHmdaDabQKKw="
+        },
+        {
+            "id": 10,
+            "name": "Papitas Fritas",
+            "price": 800,
+            "category": "acompañamientos",
+            "time": "tarde",
+            "image": "https://www.semana.com/resizer/NFJbGTlnrDrJjbVWIXtKFJ6a7Fs=/1200x675/filters:format(jpg):quality(50)//cloudfront-us-east-1.images.arcpublishing.com/semana/5IVPUHTNIVBDDK7EGPOYUUFQU4.jpg"
+        },
+        {
+            "id": 11,
+            "name": "Aritos de Cebolla",
+            "price": 800,
+            "category": "acompañamientos",
+            "time": "tarde",
+            "image": "https://ellate.cl/wp-content/uploads/2020/06/aros-de-cebolla.jpg"
+        },
+        {
+            "id": 12,
+            "name": "Agua Mineral",
+            "price": 1000,
+            "category": "bebidas",
+            "time": "tarde",
+            "image": "https://i.pinimg.com/736x/75/be/4a/75be4a45fde2910cdb82708aaeba89a5.jpg"
+        },
+        {
+            "id": 13,
+            "name": "Jugo natural",
+            "price": 1500,
+            "category": "bebidas",
+            "time": "tarde",
+            "image": "https://www.internacionalcafeteria.com/wp-content/uploads/2017/05/zumos_frutas.png"
+        },
+        {
+            "id": 14,
+            "name": "Limonada",
+            "price": 1000,
+            "category": "bebidas",
+            "time": "tarde",
+            "image": "https://static.vecteezy.com/system/resources/previews/000/762/602/non_2x/glass-of-mint-lemonade-isolated-on-a-white-background-photo.jpg"
+        },
+        {
+            "id": 15,
+            "name": "Bebida Grande",
+            "price": 1400,
+            "category": "bebidas",
+            "time": "tarde",
+            "image": "https://img.freepik.com/foto-gratis/vaso-refresco-cola-hielo-cayendo-aislado-sobre-fondo-blanco_252965-940.jpg"
+        }
+    ]
+}

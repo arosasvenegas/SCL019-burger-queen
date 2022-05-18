@@ -1,0 +1,85 @@
+@media (min-width:768px) and (max-width:1024px) and (orientation:portrait){
+    .containerMenu{
+        padding: 5px;
+        font-family: 'Inter', sans-serif ;
+    }
+    .tittleLunch{
+        font-size: 20px;
+        font-weight: 900;
+    
+    }
+    .cardMenu{
+        font-size: 20px;
+        border-radius: 15px ;
+        margin: 10px;
+        padding: 10px;
+        width: 100px;
+        text-align: center;
+        border: none;
+    }
+    .optionMenu{
+        align-content: space-between;
+    }
+    .btnCard{
+        border: none;
+        background-color: #F3F3F3;
+        border-radius: 15px;
+        font-family: 'Inter', sans-serif ;
+        width: 145px;
+        height: 140px;
+    }
+    
+    .imgProduct{
+        width: 125px;
+        height: 80px;
+        border-radius: 15px;
+
+    }
+    .price{
+        color: #ffb800;
+        font-weight: 900;
+    }
+    
+    
+    }
+    @media (min-width:1024px){
+        .containerMenu{
+            padding: 5px;
+            font-family: 'Inter', sans-serif ;
+        }
+        .tittleLunch{
+            font-size: 20px;
+        
+        }
+        .cardMenu{
+            
+            border-radius: 15px ;
+            margin: 10px;
+            padding: 10px;
+            width: 100px;
+            text-align: center;
+            border: none;
+        }
+        .imgProduct{
+            width: 125px;
+            height: 80px;
+            border-radius: 15px;
+    
+        }
+        .optionMenu{
+            align-content: space-between;
+        }
+        .btnCard{
+            border: none;
+            background-color: #F3F3F3;
+            border-radius: 15px;
+            font-family: 'Inter', sans-serif ;
+            width: 145px;
+            height: 140px;
+        }
+        .price{
+            color: #ffb800;
+            font-weight: 900;
+        }
+        
+    }

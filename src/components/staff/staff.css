@@ -1,0 +1,89 @@
+@media (min-width:768px) and (max-width:1024px) and (orientation:portrait){
+    .bodyWelcome{
+        background-image: url("../../images/fondonuevoBQ.png");
+        height: 1200px;
+        background-position: top;
+        background-repeat: no-repeat;
+        background-size: cover;
+    }
+    .logoBtns{
+        position: fixed;
+        top: 45%;
+        left: 15%;
+        width:550px;
+        background: rgba(0, 0, 0, 0.4);
+        border-radius: 20px;
+        padding: 15px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    .logoWelcome{
+        margin: 15px;
+    }
+    .btnWelcome{
+        width: 335px;
+        height: 78px;
+        background: #F3F3F3;
+        border-radius: 15px;
+        border: none;
+        margin-bottom: 20px;
+        font-size: 30px;
+        font-family: 'Inter', sans-serif;
+    }
+    a{
+        text-decoration: none;
+        box-shadow: none;
+        color: #000000
+    }
+}
+@media (min-width:1024px){
+    .bodyWelcome{
+        background-color: #9948A5;
+        height: 657px;
+        
+    }
+    .logoBtns{
+        background: rgba(0, 0, 0, 0.4);
+        position: fixed;
+        width:425px;
+        top: 15%;
+        left: 32%;
+        padding: 10px;
+        border-radius: 20px;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+    .logoWelcome{
+        margin-top: 10px;
+        margin-bottom: 15px;
+        height: 140px;
+        width: 330px
+    }
+    .btnWelcome{
+        width: 335px;
+        height: 78px;
+        background: #F3F3F3;
+        border-radius: 15px;
+        border: none;
+        margin-bottom: 20px;
+        font-size: 30px;
+        font-family: 'Inter', sans-serif;
+        
+    }
+    .btnWelcome:hover{
+        background-color: #6B45BC;
+        color: #F3F3F3 ;
+        cursor: pointer;
+    }
+    a{
+        text-decoration: none;
+        box-shadow: none;
+        color: #000000;
+    }
+}
+
+
